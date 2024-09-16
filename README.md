@@ -187,4 +187,4 @@ python -m xdoctest scotia/
 ```
 
 # Citation
-Shiau, C., Cao, J., Gregory, M. T., Gong, D., Yin, X., Cho, J. W., Wang, P. L., Su, J., Wang, S., Reeves, J. W., Kim, T. K., Kim, Y., Guo, J. A., Lester, N. A., Schurman, N., Barth, J. L., Weissleder, R., Jacks, T., Qadan, M., Hong, T. S., … Hwang, W. L. (2023). Therapy-associated remodeling of pancreatic cancer revealed by single-cell spatial transcriptomics and optimal transport analysis. bioRxiv : the preprint server for biology, 2023.06.28.546848. [Link](https://doi.org/10.1101/2023.06.28.546848)
+Shiau, C., Cao, J., Gong, D., Gregory, M.T., Caldwell, N.J., Yin, X., Cho, J.-W., Wang, P.L., Su, J., Wang, S., Reeves, J.W., Kim, T.K., Kim, Y., Guo, J.A., Lester, N.A., Bae, J.W., Zhao, R., Schurman, N., Barth, J.L., Ganci, M.L., Weissleder, R., Jacks, T., Qadan, M., Hong, T.S., Wo, J.Y., Roberts, H., Beechem, J.M., Castillo, C.F., Mino-Kenudson, M., Ting, D.T., Hemberg, M., Hwang, W.L., 2024. Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment. Nat. Genet. 1–13. [Link](https://doi.org/10.1038/s41588-024-01890-9)
